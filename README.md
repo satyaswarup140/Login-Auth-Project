@@ -42,3 +42,4 @@ SQLite database file users.db is created automatically.
 ✅ Now open http://localhost:3000
 
 . Register → Login → Dashboard → Logout 🚀
+Test commit
